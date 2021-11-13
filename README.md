@@ -1,4 +1,6 @@
-# hw-linux
+# HW-Fall2021
+
+homework for linux course in 2021 Fall
 
 ## precondition
 - cmake
