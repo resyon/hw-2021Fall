@@ -1,0 +1,6 @@
+[submodule "hw-2021Fall-server"]
+	path = hw-2021Fall-server
+	url = https://github.com/resyon/hw-2021Fall-server
+[submodule "hw-2021Fall-client"]
+	path = hw-2021Fall-client
+	url = https://github.com/resyon/hw-2021Fall-client
